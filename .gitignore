@@ -1,0 +1,9 @@
+# build output
+/src-tauri/target/
+/src-tauri/gen/
+
+# misc
+node_modules/
+*.log
+Thumbs.db
+desktop.ini
